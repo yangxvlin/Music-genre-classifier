@@ -1,25 +1,50 @@
 # Music-genre-classifier
 COMP90049 - Intro to Machine Learning - 2020S2 - Assignment2
 
+## Library used
+- sklearn
+- numpy
+- pandas
+
+# how to run
+- run all cells
+- everything in report are in all cells
+- ![](./readme/1.jpg)
+
+# where to find functions
+## TF-IDF
+- section 5.3
+
+## train, predict, evaluate functions
+- defined in section 4
+- called in section 6.3
+
+## hyper-parameter tuning
+- section 6.2
+
+## error analysis
+- section 6.4
+
+## ensemble learning
+- section 6.5
+
+# For more details, read the jupyter notebook
+
 ## description
-This file describes the data provided as part of 
-COMP90049: Introduction to Machine Learning
+This file describes the data provided as part of  
+COMP90049: Introduction to Machine Learning  
 Project 2: Music Genre Prediction from Audio, Metadata, and Lyric Features!
 
 The features and class labels are derived from the following published data sets
 
-T. Bertin-Mahieux, D. P.W. Ellis, B. Whitman, and P. Lamere. The million song dataset. In Proceedings of the 12th International Conference on Music Information Retrieval (ISMIR),
+1. T. Bertin-Mahieux, D. P.W. Ellis, B. Whitman, and P. Lamere. The million song dataset. In Proceedings of the 12th International Conference on Music Information Retrieval (ISMIR),
 
-A. Schindler and A. Rauber. Capturing the temporal domain in Echonest Features for improved classification effectiveness. In Proceedings of the 10th InternationalWorkshop on Adaptive Multimedia Retrieval (AMR), 2012.
+2. A. Schindler and A. Rauber. Capturing the temporal domain in Echonest Features for improved classification effectiveness. In Proceedings of the 10th InternationalWorkshop on Adaptive Multimedia Retrieval (AMR), 2012.
 
 
 ### Data splits and format
-
-
 The data set consists of audio, metadata, and text features for 8556 songs, as well as their
-genre labels. The songs are split into a training set (7678 songs), development set (450 songs)
-and test set (428 songs).
-
+genre labels. The songs are split into a training set (7678 songs), development set (450 songs) and test set (428 songs).
 
 For each data split, we provide a features.csv file, labels.csv file. Each file is in csv format 
 (comma-separated values). 
@@ -60,4 +85,3 @@ All genre labels are taken from the following set of 8 genres:
 6. Folk
 7. Classic Pop and Rock
 8. Metal
-
