@@ -6,6 +6,9 @@ COMP90049 - Intro to Machine Learning - 2020S2 - Assignment2
 - numpy
 - pandas
 
+## Report
+- [report](./docs/COMP90049_Assignment_02.pdf)
+
 ## Result and feedback
 - <img src="./docs/result.png"/>
 
