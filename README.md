@@ -9,9 +9,15 @@ COMP90049 - Intro to Machine Learning - 2020S2 - Assignment2
 ## Report
 - [report](./docs/COMP90049_Assignment_02.pdf)
 
+## Kaggle
+- https://www.kaggle.com/c/comp90049p2s2/leaderboard
+- I am rank 176
+- ![](./docs/kaggle.jpg)
+
 ## Result and feedback
 - <img src="./docs/result.png"/>
 - <img src="./docs/result2.png"/>
+
 # how to run
 - run all cells
 - everything in report are in all cells
