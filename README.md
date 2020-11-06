@@ -11,7 +11,7 @@ COMP90049 - Intro to Machine Learning - 2020S2 - Assignment2
 
 ## Result and feedback
 - <img src="./docs/result.png"/>
-
+- <img src="./docs/result2.png"/>
 # how to run
 - run all cells
 - everything in report are in all cells
