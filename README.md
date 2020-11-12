@@ -15,7 +15,7 @@ COMP90049 - Intro to Machine Learning - 2020S2 - Assignment2
 - ![](./docs/kaggle.jpg)
 
 ## Peer review
-- [peer reviews](./peer\ review/)
+- [peer reviews](./peer_review/)
 
 ## Result and feedback
 - Final marks: 36 out of 40
