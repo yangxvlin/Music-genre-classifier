@@ -20,9 +20,11 @@ COMP90049 - Intro to Machine Learning - 2020S2 - Assignment2
 ## Result and feedback
 - Final marks: 36 out of 40
 - <img src="./docs/result.png"/>
+- <img src="./docs/result4.jpg"/>
 - <img src="./docs/result2.png"/>
 - <img src="./docs/result3.jpg"/>
-- <img src="./docs/result4.jpg"/>
+- <img src="./docs/result5.png"/>
+- <img src="./docs/result6.png"/>
 
 # how to run
 - run all cells
