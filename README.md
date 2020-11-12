@@ -14,9 +14,15 @@ COMP90049 - Intro to Machine Learning - 2020S2 - Assignment2
 - I am rank 176
 - ![](./docs/kaggle.jpg)
 
+## Peer review
+- [peer reviews](./peer\ review/)
+
 ## Result and feedback
+- Final marks: 36 out of 40
 - <img src="./docs/result.png"/>
 - <img src="./docs/result2.png"/>
+- <img src="./docs/result3.jpg"/>
+- <img src="./docs/result4.jpg"/>
 
 # how to run
 - run all cells

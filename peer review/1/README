@@ -1,0 +1,56 @@
+==============================================================================================
+This file describes the code for music genre classification project
+
+==============================================================================================
+The python codes were wrote using jupyter notebook
+
+Packages:
+1: packages from jupyter notebook
+numpy, pandas, matplotlib, collections, time, seaborn, sklearn
+
+2: downloadable packages for jupyter notebook:
+# imblearn
+	installation: download package and import to jupyter notebook
+	type: conda install -c glemaitre imbalanced-learn
+
+==============================================================================================
+Total of 11 cells are created and fit in one submitted file as .ipynb
+The submitted file only contains minimal codes that has been mentioned in the report, those 
+unmentioned works are not included.
+
+==============================================================================================
+cell 1
+import packages and data
+==============================================================================================
+cell 2, 3
+visualize distribution of labels and feature "mode"
+==============================================================================================
+cell 4
+preprocessing
+-three functions are built for preprocessing based on hypothesis from the report
+the first one is the sampling method
+the second and third function is to select either continuous feature or a combination of 
+continuous and discrete feature
+
+==============================================================================================
+cell 5
+train function
+-function to train classifiers, and count the training time
+
+==============================================================================================
+cell 6
+evaluate function
+-evaluate with accuracy score, classification report and confusion matrix
+
+==============================================================================================
+cell 7
+predict function
+-predict test labels
+
+==============================================================================================
+cell 8 - 11
+train, evaluate and predict 4 different models that has been mentioned in the report.
+-each cell contains one model with the performance outcomes from three classifiers.
+
+
+
