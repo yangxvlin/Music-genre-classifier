@@ -25,6 +25,7 @@ COMP90049 - Intro to Machine Learning - 2020S2 - Assignment2
 - <img src="./docs/result3.jpg"/>
 - <img src="./docs/result5.png"/>
 - <img src="./docs/result6.png"/>
+- [good report](./ExampleReport.pdf)
 
 # how to run
 - run all cells
